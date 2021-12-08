@@ -105,6 +105,14 @@
     "image_urls": [],
     "decimals": 18
   },
+   "io19qmekqndvv4n2cxq8tjdk7gkchxjdtr3nwjdzl": {
+    "name": "IoTex Akita",
+    "description": "We do marketing from the beginning of the project and Airdrop rewards for everyone involved.",
+    "logo": "io19qmekqndvv4n2cxq8tjdk7gkchxjdtr3nwjdzl.png",
+    "type": "xrc20",
+    "symbol": "IoAkita",
+    "decimals": 9
+  },
   "io1m43dzu4q5klmhu9yffperyrugu8dag58kq9syu": {
     "name": "Hacking Token",
     "description": "These tokens can be obtained by visiting and playing the hacking game on JRPC.pl / JRPC.io",
